@@ -1,0 +1,13 @@
+D:\projects\FinTrack\analytics-service\src\main\java\com\fintrack\analytics_service\AnalyticsServiceApplication.java
+D:\projects\FinTrack\analytics-service\src\main\java\com\fintrack\analytics_service\config\SecurityConfig.java
+D:\projects\FinTrack\analytics-service\src\main\java\com\fintrack\analytics_service\controller\AnalyticsController.java
+D:\projects\FinTrack\analytics-service\src\main\java\com\fintrack\analytics_service\event\TransactionCreatedEvent.java
+D:\projects\FinTrack\analytics-service\src\main\java\com\fintrack\analytics_service\exception\ErrorResponse.java
+D:\projects\FinTrack\analytics-service\src\main\java\com\fintrack\analytics_service\exception\GlobalExceptionHandler.java
+D:\projects\FinTrack\analytics-service\src\main\java\com\fintrack\analytics_service\exception\ResourceNotFoundException.java
+D:\projects\FinTrack\analytics-service\src\main\java\com\fintrack\analytics_service\model\Category.java
+D:\projects\FinTrack\analytics-service\src\main\java\com\fintrack\analytics_service\model\MonthlySummary.java
+D:\projects\FinTrack\analytics-service\src\main\java\com\fintrack\analytics_service\repository\MonthlySummaryRepository.java
+D:\projects\FinTrack\analytics-service\src\main\java\com\fintrack\analytics_service\security\JwtAuthFilter.java
+D:\projects\FinTrack\analytics-service\src\main\java\com\fintrack\analytics_service\security\JwtUtil.java
+D:\projects\FinTrack\analytics-service\src\main\java\com\fintrack\analytics_service\service\TransactionEventConsumer.java
